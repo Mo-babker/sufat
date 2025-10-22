@@ -6,9 +6,8 @@ It guides users interactively through data entry, computes detailed billing info
 
 ---
 
-## 👥 Authors
-- **Emir Can Ertekin** (44-252)  
-- **Mohamed Babker Ahmed** (19-39, 251-461)
+## 👥 Author 
+- **Mohamed Babker Ahmed**
 
 ---
 
