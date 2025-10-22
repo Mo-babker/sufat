@@ -2,8 +2,8 @@
 """
 Created on Wed Dec 25 19:21:37 2024
 
-Emir Can Ertekin 44-252
-Mohamed babker Ahmed 19-39 ,251-461
+Mohamed babker Ahmed
+
 """
 from datetime import datetime
 import pandas as pd
